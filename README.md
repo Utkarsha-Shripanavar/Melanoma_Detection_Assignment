@@ -34,10 +34,11 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The first model led to overfitting 
+- The reason for overfitting was class imbalance
+- Class reimbalance using augmentor solved the overfitting issue
+- final model had 90% validation accuracy 84% validation accuracy also loss is reduced to 24%
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
